@@ -3,7 +3,14 @@ This is the second line
 
 
 
+<<<<<<< HEAD
 This is line is for NewBranchhhhhh
 
 
 This line is to check the conflict of merging
+=======
+This is line is for NewBranch1
+
+
+This line is to check merge conflict
+>>>>>>> origin/main
